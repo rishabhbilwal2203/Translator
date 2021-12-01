@@ -6,4 +6,4 @@
 * pyperclip ([click here to download](https://pypi.org/project/pyperclip/))
 * speech_recognition ([click here to download](https://pypi.org/project/SpeechRecognition/))
 * gtts ([click here to download](https://pypi.org/project/gTTS/))
-* muagen ([click here to download](https://pypi.org/project/mutagen/))
+* mutagen ([click here to download](https://pypi.org/project/mutagen/))
